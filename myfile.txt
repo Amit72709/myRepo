@@ -1,4 +1,8 @@
 HI amit, How are you.
 
 I love coding and development .
+<<<<<<< HEAD
 new change ADDED
+=======
+play cricket.
+>>>>>>> ed4b0594c16d127ec93aa2cbc9188348d313da9b
